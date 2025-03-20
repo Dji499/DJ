@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio-Djibril kayat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Djibril kayat</h1>
+    <p>Passionné par l'informatique et les réseaux</p>
+    </header>
+
+  <section id="profil">
+  <h2>Profil</h2>
+  <p>Je suis passioné par l'informatique et particulièrement intéressé par les réseaux.Curieux et à l'écoute,je cherche à développer mes compétences.</p>
+  </section>
+
+  <section id="formation">
+  <h2> formation</h2>
+  <ul>
+  <li><strong>2022 -2024 :</strong> BAC Pro systèmes Numériques -
+    Lycée Newton (Mention assez bien)</li>
+    <li><strong>2024-2025 /</strong> BTS SIO - Lycée Parc Vilgénis</li>
+    </ul>
+    </section>
+
+    <section id="expérience">
+    <h2>expérience professionnelle</h2>
+    <div class="job">
+    <h3>2023|Lycée Newton</h3>
+    <p>Etude des technologies HTML, CSS et équipements réseau
+    (routeurs,commutateurs,CPL).</p>
+    </div>
+    <div class="job">
+    <h3>2024|Stage -Amp Visual TV</h3>
+    <p>Utilisation de VirtualBox,installation de windows & Linux,manipulation du Bios et UEFI.</p>
+      </div>
+      </section>
+
+      <section id="compétences">
+      <h2>Compétences</h2>
+      <ul>
+      <li>Réseaux et Systèmes Informatiques</li>
+      <li>Appareillages Electroniques</li>
+      <li>Multimédia</li>
+      <li>HTML / CSS</li>
+      </ul>
+      </section>
+
+      <section id="contact">
+      <h2>contact</h2>
+      <p>07 69 42 65 28</p>
+      <p>djibril.kayat@gmail.com</p>
+      <p>1 rue marc bloch</p>
+      </section>
+
+      <footer>
+      <p>&copy;2025 Djibril Kayat - Portfolio</p>
+        </footer>
+        </body>
+        </html>
+      
+    
+   
